@@ -32,7 +32,8 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 ```
-<html>
+
+!<html>
     <head>
         <meta name="viewport"
         content="width=device-width, initial-scale=1.0">
@@ -49,7 +50,7 @@ Publish the website in the LocalHost.
                 background-size: cover;
             }
             .insight{
-                color:#ffffff;
+                color:#e7e5e9;
 
             }
             .hrstyle{
@@ -125,7 +126,7 @@ Publish the website in the LocalHost.
                 <h3>with Django and Bootstrap Insights</h3>
             </div>
             <div class="mypic">
-                <img src="neethi photos (2).jpg" width="100px" height="100px" style="border-radius: 100%;">
+                <img src="mee.jpg" width="100px" height="100px" style="border-radius: 100%;">
             </div>
             <div class="id">
                 
@@ -142,13 +143,12 @@ Publish the website in the LocalHost.
             </div>
         </div>
 
-    </body>
+    </body>
 </html>
-```
-
 
 ## OUTPUT:
-![web file](https://github.com/jagadeesh9500/cover/assets/149087921/fe82cc25-4ebc-4844-bf47-647362833e75)
+![Screenshot 2024-04-29 145132](https://github.com/jagadeesh9500/cover/assets/149087921/0d17cdfa-c414-4ea3-adc8-add6bd7db262)
+
 
 
 
