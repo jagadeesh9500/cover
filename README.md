@@ -148,7 +148,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![web file](https://github.com/jagadeesh9500/cover/assets/149087921/f27f9d88-618e-45c7-9739-1425fd233abe)
+![web file](https://github.com/jagadeesh9500/cover/assets/149087921/fe82cc25-4ebc-4844-bf47-647362833e75)
+
 
 
 
